@@ -1,0 +1,28 @@
+html {
+  background-color: beige;
+  padding: 1cm;
+}
+body {
+  background-color: beige;
+}
+.card {
+  min-height: 100%;
+}
+
+.col:hover .hh {
+    display: block;
+}
+.logo {
+  height: 100px;
+  
+}
+
+.title {
+  color: black;
+  background-color: beige;
+  display: flex;
+  justify-content: center;
+}
+.hh{
+    display: none;
+}
